@@ -1,5 +1,5 @@
 # pw_policy
-
+一款适配openeuler的dde桌面应用pw_policy，简化pam文件的密码策略配置
 [TOC]
 
 # 简介
